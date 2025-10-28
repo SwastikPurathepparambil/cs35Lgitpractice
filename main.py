@@ -23,4 +23,4 @@ def john():
     print("John is my name!")
 
 def mergeFailure():
-    print("This one says bye!")
+    print("This one says hi!")
