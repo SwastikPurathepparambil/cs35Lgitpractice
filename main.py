@@ -20,4 +20,4 @@ def newFeature():
     print('New Feature')
 
 def john():
-    print("John")
+    print("John is my name!")
