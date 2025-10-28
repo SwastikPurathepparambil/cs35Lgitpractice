@@ -12,3 +12,6 @@ def checkoutFile1():
 
 def checkoutFile2():
     print("Checkout2")
+
+def checkout3():
+    print("Checkout 3")
