@@ -18,3 +18,6 @@ def checkout3():
 
 def newFeature():
     print('New Feature')
+
+def john():
+    print("John")
