@@ -21,3 +21,6 @@ def newFeature():
 
 def john():
     print("John is my name!")
+
+def mergeFailure():
+    print("This one says hello!")
