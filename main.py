@@ -23,4 +23,4 @@ def john():
     print("John is my name!")
 
 def mergeFailure():
-    y = 3
+    x = 10
