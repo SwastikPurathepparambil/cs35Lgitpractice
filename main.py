@@ -15,3 +15,6 @@ def checkoutFile2():
 
 def checkout3():
     print("Checkout 3")
+
+def newFeature():
+    print('New Feature')
