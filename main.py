@@ -6,3 +6,6 @@ def testfile():
 testfile()
 
 print('hi')
+
+def checkoutFile1():
+    print("Checkout1")
