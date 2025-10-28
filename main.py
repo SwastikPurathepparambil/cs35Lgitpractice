@@ -9,3 +9,6 @@ print('hi')
 
 def checkoutFile1():
     print("Checkout1")
+
+def checkoutFile2():
+    print("Checkout2")
